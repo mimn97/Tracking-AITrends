@@ -1,0 +1,8 @@
+torch --extra-index-url https://download.pytorch.org/whl/cu116
+transformers
+docx2txt
+datasets
+seqeval
+spacy
+nltk
+pandas
